@@ -7,6 +7,6 @@ namespace RENT_A_CAR
 {
     public class Cliente
     {
-
+        // Prueba
     }
 }

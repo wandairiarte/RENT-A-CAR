@@ -7,6 +7,14 @@ namespace RENT_A_CAR
 {
     public class Cliente
     {
-        // Prueba
+        #region "ATRIBUTOS"
+
+        // Cedula -> Atributo de tipo string
+        private string _cedula;
+
+        // Tarjeta de credito -> Atributo de tipo string
+        private string _tarjetaCredito;
+
+        #endregion
     }
 }
